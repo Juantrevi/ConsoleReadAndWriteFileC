@@ -1,0 +1,14 @@
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\net7.0\ReadAndWriteFile.exe
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\net7.0\ReadAndWriteFile.deps.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\net7.0\ReadAndWriteFile.runtimeconfig.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\net7.0\ReadAndWriteFile.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\net7.0\ReadAndWriteFile.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net7.0\ReadAndWriteFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net7.0\ReadAndWriteFile.AssemblyInfoInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net7.0\ReadAndWriteFile.AssemblyInfo.cs
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net7.0\ReadAndWriteFile.csproj.CoreCompileInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net7.0\ReadAndWriteFile.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net7.0\refint\ReadAndWriteFile.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net7.0\ReadAndWriteFile.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net7.0\ReadAndWriteFile.genruntimeconfig.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net7.0\ref\ReadAndWriteFile.dll

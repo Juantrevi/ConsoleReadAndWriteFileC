@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ReadAndWriteFile/1.0.0": {
+        "runtime": {
+          "ReadAndWriteFile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReadAndWriteFile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
